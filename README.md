@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, It's Aritra</h1>
+<h1 align="center">Hello all, Aritra here.</h1>
 <h3 align="center">A passionate and innovative developer from India.</h3>
 
 
@@ -10,7 +10,9 @@
 
 - 📫 How to reach me **aritramajumder8438@gmail.com**.
 
-- ⚡ You know what? **I am a Madridista 🤍**.
+- ❣ You know what? **I am a Madridista 🤍**.
+
+- ⚡ Fun fact **I am an otaku**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
