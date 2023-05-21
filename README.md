@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact: **I am also an otaku**.
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=Aritra8438&color=green)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
