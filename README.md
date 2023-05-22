@@ -35,6 +35,14 @@
   
   <br><br>
 
+**GSoC '23:**
+  <br>
+I'm currently working at Mathesar, GSoC' 23. I will be adding more summarization functions to Mathesar UI.
+Check out my blog [here](https://aritra8438.github.io/my-first-blog/). 
+ALso, I will be writing more blogs on my GSoC journey, you will find them [here](https://aritra8438.github.io/index.html#blogs).
+<br><br><br>
+**My activity on GitHub:**
+<br>
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=Aritra8438&custom_title=Aritra%27s%20GitHub%20Activity%20Graph&bg_color=faedca&color=f2242b&line=f2242b&point=f2242b&area=true&hide_border=false)
 <div>  
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Aritra8438&show_icons=true&locale=en&theme=moltack" alt="Aritra8438" /></p>
