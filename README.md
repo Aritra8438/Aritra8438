@@ -44,7 +44,7 @@ ALso, I will be writing more blogs on my GSoC journey, you will find them [here]
 **My activity on GitHub:**
 
   
-![](https://github-readme-activity-graph.cyclic.app/graph?username=Aritra8438&custom_title=Aritra%27s%20GitHub%20Activity%20Graph&bg_color=faedca&color=f2242b&line=f2242b&point=f2242b&area=true&hide_border=false)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Aritra8438&custom_title=Aritra%27s%20GitHub%20Activity%20Graph&bg_color=faedca&color=f2242b&line=f2242b&point=f2242b&area=true&hide_border=false)
 <div>  
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Aritra8438&show_icons=true&locale=en&theme=moltack" alt="Aritra8438" /></p>
 </div>
