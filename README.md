@@ -5,7 +5,7 @@
 
 <br><br>
 
-<img src="https://github.com/Aritra8438/Aritra8438/assets/64671908/ec3f4170-4932-4aba-8164-adf32ac50ba9" height=280 align="right">
+<img src="https://media.tenor.com/KM3VNP5d1FIAAAAM/miku-hello.gif" height=280 width=240 align="right">
 
 - 🔭 I’m currently working on **DataStructure, Algorithms, Problem Solving, Vue.js, Django, Blockchain**.
 
