@@ -1,4 +1,3 @@
-![1042229](https://github.com/Aritra8438/Aritra8438/assets/64671908/476ac1e5-6d0b-4abd-aabf-965ba676f622)
 <h1 align="center">Hello all, I'm Aritra.<img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" alt="python3" width="40" height="40"/></h1>
 <p align="center">&nbsp;<img align="center" src="https://github-stats-alpha.vercel.app/api?username=Aritra8438&cc=504&tc=BD2&ic=EC3&bc=000" alt="Aritra8438" /></p>
 <h3 align="center">A passionate and innovative developer from India.</h3>
