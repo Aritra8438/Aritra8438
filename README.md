@@ -40,6 +40,10 @@ I'm currently contributing to [Mathesar](https://github.com/centerofci/mathesar)
 Check out my blog [here](https://aritra8438.github.io/my-first-blog/). 
 Also, I will be writing more blogs on my GSoC journey, you will find them [here](https://aritra8438.github.io/index.html#blogs).
 <br><br><br>
+
+My Hactoberfest 2023 gallery :') <br><br><br>
+[![An image of @aritra8438's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aritra8438)](https://holopin.io/@aritra8438)
+
 **My activity on GitHub:**
 
   
