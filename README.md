@@ -1,10 +1,8 @@
-<h1 align="center">Hello all, I'm Aritra.<img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" alt="python3" width="40" height="40"/></h1>
+<h1 align="center">Hello all, I'm Aritra.</h1>
 <p align="center">&nbsp;<img align="center" src="https://github-stats-alpha.vercel.app/api?username=Aritra8438&cc=504&tc=BD2&ic=EC3&bc=000" alt="Aritra8438" /></p>
 <h3 align="center">A passionate and innovative developer from India.</h3>
 
 <br><br>
-
-<img src="https://media.tenor.com/KM3VNP5d1FIAAAAM/miku-hello.gif" height=280 width=240 align="right">
 
 - 🔭 I’m currently working on **DataStructure, Algorithms, Problem Solving, Vue.js, Django, Blockchain**.
 
