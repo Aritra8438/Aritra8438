@@ -1,14 +1,14 @@
 <h1 align="center">Hello all, I'm Aritra.</h1>
 <p align="center">&nbsp;<img align="center" src="https://github-stats-alpha.vercel.app/api?username=Aritra8438&cc=504&tc=BD2&ic=EC3&bc=000" alt="Aritra8438" /></p>
-<h3 align="center">A passionate and innovative developer from India.</h3>
+<h3 align="center">Junior pursuing Master's in CS from CMI</h3>
 
 <br><br>
 
-- 🔭 I’m currently working on **DataStructure, Algorithms, Problem Solving, Vue.js, Django, Blockchain**.
+- 🔭 I’m currently working on **Complexity theory, cryptography, Deep learning, Algorithms, Blockchain**.
 
-- 🌱 I’m currently learning **Svelte and Node.js**.
+- 🌱 I’m currently learning **Cryptography, Deep learning, PHP**.
 
-- 💬 Ask me about **DataStructure & Algorithms, Problem Solving technique, C++, SQL, NoSQL and Web development**.
+- 💬 You can reach out to me for **questions related to Compuer Science, Competitive programming, Web Development**.
 
 - 📫 How to reach me: **aritramajumder8438@gmail.com**.
 
@@ -28,28 +28,37 @@
 
 <h3 align="left">Languages and Frameworks:</h3>
 <p align="left">
-    <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python3" width="40" height="40" /> </a> &nbsp
-    <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>&nbsp
+    <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /> </a> &nbsp
+    <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /> </a>&nbsp
     <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /> </a>&nbsp
     <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40" /> </a>&nbsp
-    <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Typescript" width="40" height="40" /> </a>&nbsp
-    <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="Typescript" width="40" height="40" /> </a>&nbsp
-    <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Typescript" width="40" height="40" /> </a>&nbsp
-    <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Typescript" width="40" height="40" /> </a>&nbsp
+    <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40" /> </a>&nbsp
+    <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" /> </a>&nbsp
+    <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Haskell" width="40" height="40" /> </a>&nbsp
+    <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /> </a>&nbsp
     <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40" /> </a><br />
     <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>&nbsp
     <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>&nbsp
     <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VueJS" width="40" height="40" /> </a>&nbsp
-    <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40" /> </a>&nbsp
-    <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40" /> </a>
+    <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="ReactJS" width="40" height="40" /> </a>&nbsp
+    <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" /> </a>&nbsp
+    <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" width="40" height="40" /> </a>&nbsp
+    <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40" /> </a>
 </p>
 
   
   <br><br>
 
+**GSoC '24:**
+  <br>
+I'm currently contributing to [omegaup](https://github.com/omegaup/omegaup) as part of GSoC' 24. I will be migrating the unofficial CDP to the official OmegaUp site.
+<br>Check out my blog [here](https://aritra8438.github.io/gsoc24-first-blog/). 
+Also, I will be writing more blogs on my GSoC journey, you will find them [here](https://aritra8438.github.io/index.html#blogs).
+<br><br><br>
+
 **GSoC '23:**
   <br>
-I'm currently contributing to [Mathesar](https://github.com/centerofci/mathesar) under GSoC' 23. I will be adding more summarization functions to Mathesar UI.
+I've currently contributed to [Mathesar](https://github.com/centerofci/mathesar) under GSoC' 23. I will be adding more summarization functions to Mathesar UI.
 Check out my blog [here](https://aritra8438.github.io/my-first-blog/). 
 Also, I will be writing more blogs on my GSoC journey, you will find them [here](https://aritra8438.github.io/index.html#blogs).
 <br><br><br>
