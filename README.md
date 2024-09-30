@@ -4,11 +4,11 @@
 
 <br><br>
 
-- 🔭 I’m currently working on **Complexity theory, cryptography, Deep learning, Algorithms, Blockchain**.
+- 🔭 I’m currently working on **Complexity theory, Cryptography, Deep learning, Algorithms, Blockchain**.
 
-- 🌱 I’m currently learning **Cryptography, Deep learning, PHP**.
+- 🌱 I’m currently learning **Cryptography, Deep learning**.
 
-- 💬 You can reach out to me for **questions related to Compuer Science, Competitive programming, Web Development**.
+- 💬 You can reach out to me for **questions related to Computer Science, Competitive programming, Web Development**.
 
 - 📫 How to reach me: **aritramajumder8438@gmail.com**.
 
