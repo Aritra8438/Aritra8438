@@ -74,8 +74,10 @@ My Hactoberfest 2023 gallery :') <br><br><br>
 <div>  
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Aritra8438&show_icons=true&locale=en&theme=moltack" alt="Aritra8438" /></p>
 </div>
+<br><br><br><br><br><br><br>
 <p><img src="https://github-contributor-stats.vercel.app/api?username=Aritra8438&limit=4&theme=moltack&combine_all_yearly_contributions=true" alt="Aritra8438" align="right" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aritra8438&theme=gruvbox-light" alt="Aritra8438" align="right" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aritra8438&theme=gruvbox-light" alt="Aritra8438"/></p>
 
 
 
